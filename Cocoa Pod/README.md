@@ -8,40 +8,41 @@ and fieches with them.
 - Open terminal
 - Open project directory.  
 - Write this to terminal
-<img src="Screenshot 2021-09-14 at 10.23.32.png" width="1200">  
-- Then write this
-<img src="Screenshot 2021-09-14 at 10.24.26.png" width="1200">  
-- Whait until cocoapods downloads.  
+-  Then write this
+-  <img src="Screenshot 2021-09-14 at 10.23.32.png" width="500"> 
+-  Whait until cocoapods downloads.
+-  <img src="Screenshot 2021-09-14 at 10.23.32.png" width="500"> 
+    
+ 
 
-## How to add any library from cocoa pods   
-serch
-<img src="images/first.png" width="1200">  
+# How to add any library from cocoa pods   
+### Search for the library on website cocoapods
+<img src="images/first.png" width="500">  
+                   
+### Find and open your library
+<img src="images/second.png" width="500"> 
+       
+### Find instalation and copy string from there
+<img src="images/Instal.png" width="500">  
 
-open inside site
-<img src="images/second.png" width="1200">     
+### Open terminal and write - pod init
+<img src="images/third.png" width="500">  
 
-pod init
-<img src="images/third.png" width="1200">     
-pdfile image open podfile 
-<img src="images/forth.png" width="1200">  
-write string inside podfile 
-<img src="images/fifth.png" width="1200">   
-pod instal into terminal
-<img src="images/sixth.png" width="1200">    
-open workspace 
-<img src="images/seventh.png" width="1200">  
+### Find your project inside Finder and open created file - Podfile
+<img src="images/forth.png" width="500"> 
 
-<img src="images/instal.png" width="1200">  
-create podfile.  
-      pod init.   
-add string inside.     
-  find string from cocoapods file      
-  and put inside podfile        
-  
-close project.  
-pod install.  
-open project workspace.   
-difference .workspace and .xcodeproj
+### Past string from website after second coment 
+<img src="images/fifth.png" width="500">  
 
-<img src="Alamofire/Screenshot 2021-09-14 at 11.19.49.png" width="1200">  
+### go back to terminal and write - pod install 
+<img src="images/sixth.png" width="500">  
+
+### open project throw file .workspace, not throw .xcodeproject 
+<img src="images/seventh.png" width="500">  
+
+Thats it 
+
+### Dont forget to import library inside your project 
+
+<img src="Alamofire/Screenshot 2021-09-14 at 11.19.49.png" width="500">  
 
