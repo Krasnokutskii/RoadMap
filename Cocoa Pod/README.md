@@ -14,7 +14,16 @@ and fieches with them.
 - Whait until cocoapods downloads.  
 
 ## How to add any library from cocoa pods   
+serch
+<img src="images/first.png" width="1200">  
 
+<img src="images/second.png" width="1200">  
+<img src="images/third.png" width="1200">  
+<img src="images/forth.png" width="1200">  
+<img src="images/fifth.png" width="1200">  
+<img src="images/sixth.png" width="1200">  
+<img src="images/seventh.png" width="1200">  
+<img src="images/instal.png" width="1200">  
 create podfile.  
       pod init.   
 add string inside.     
