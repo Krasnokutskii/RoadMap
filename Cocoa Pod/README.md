@@ -17,12 +17,20 @@ and fieches with them.
 serch
 <img src="images/first.png" width="1200">  
 
-<img src="images/second.png" width="1200">  
-<img src="images/third.png" width="1200">  
+open inside site
+<img src="images/second.png" width="1200">     
+
+pod init
+<img src="images/third.png" width="1200">     
+pdfile image open podfile 
 <img src="images/forth.png" width="1200">  
-<img src="images/fifth.png" width="1200">  
-<img src="images/sixth.png" width="1200">  
+write string inside podfile 
+<img src="images/fifth.png" width="1200">   
+pod instal into terminal
+<img src="images/sixth.png" width="1200">    
+open workspace 
 <img src="images/seventh.png" width="1200">  
+
 <img src="images/instal.png" width="1200">  
 create podfile.  
       pod init.   
