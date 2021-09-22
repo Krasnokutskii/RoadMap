@@ -1,10 +1,9 @@
-# CocoaPods
+# 📚 CocoaPods
 
-i will post the most usefull libraries from cocoapods 
-and fieches with them.  
-### Cocoapods website - https://cocoapods.org
+The most useful libraries and fithes with them 
+### 💻 Cocoapods website - https://cocoapods.org
 
-## First init
+## 👶 First init
 - Open terminal
 - Open project directory.  
 - Write this to terminal
@@ -15,7 +14,7 @@ and fieches with them.
     
  
 
-# How to add any library from cocoa pods   
+# ➕ How to add any library from cocoa pods   
 ### Search for the library on website cocoapods
 <img src="images/first.png" width="500">  
                    
