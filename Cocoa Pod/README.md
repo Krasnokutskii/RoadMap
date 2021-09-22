@@ -26,3 +26,5 @@ pod install.
 open project workspace.   
 difference .workspace and .xcodeproj
 
+<img src="Alamofire/Screenshot 2021-09-14 at 11.19.49.png" width="1200">  
+
