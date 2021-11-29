@@ -1,4 +1,5 @@
 # Git main comand 
+cat ~/.ssh/id_rsa.pub - to access SSH
 git init -  create new git file in direcroty.        
 git add . - add changed files from project to git file.      
 git add --all  - add all files to git file.       
